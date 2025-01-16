@@ -1,2 +1,2 @@
-# masala-on-wheels
+# masala-on-wheels 🚚
 Online ordering for Masala on Wheels
